@@ -1,0 +1,5 @@
+# CAEN
+Host rechkamy
+	HostName login.engin.umich.edu
+	User rechkamy
+	Compression yes
